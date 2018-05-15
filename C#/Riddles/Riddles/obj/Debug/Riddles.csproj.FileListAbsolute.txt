@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Max Watkins\C#\Riddles\Riddles\bin\Debug\Riddles.exe.config
+C:\Users\student\Desktop\Max Watkins\C#\Riddles\Riddles\bin\Debug\Riddles.exe
+C:\Users\student\Desktop\Max Watkins\C#\Riddles\Riddles\bin\Debug\Riddles.pdb
+C:\Users\student\Desktop\Max Watkins\C#\Riddles\Riddles\obj\Debug\Riddles.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Max Watkins\C#\Riddles\Riddles\obj\Debug\Riddles.exe
+C:\Users\student\Desktop\Max Watkins\C#\Riddles\Riddles\obj\Debug\Riddles.pdb
