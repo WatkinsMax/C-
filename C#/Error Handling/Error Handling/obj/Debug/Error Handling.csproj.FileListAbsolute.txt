@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Max Watkins\C#\Error Handling\Error Handling\bin\Debug\Error Handling.exe.config
+C:\Users\student\Desktop\Max Watkins\C#\Error Handling\Error Handling\bin\Debug\Error Handling.exe
+C:\Users\student\Desktop\Max Watkins\C#\Error Handling\Error Handling\bin\Debug\Error Handling.pdb
+C:\Users\student\Desktop\Max Watkins\C#\Error Handling\Error Handling\obj\Debug\Error Handling.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Max Watkins\C#\Error Handling\Error Handling\obj\Debug\Error Handling.exe
+C:\Users\student\Desktop\Max Watkins\C#\Error Handling\Error Handling\obj\Debug\Error Handling.pdb
