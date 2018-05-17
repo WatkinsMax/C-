@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Max Watkins\C#\List\List\bin\Debug\List.exe.config
+C:\Users\student\Desktop\Max Watkins\C#\List\List\bin\Debug\List.exe
+C:\Users\student\Desktop\Max Watkins\C#\List\List\bin\Debug\List.pdb
+C:\Users\student\Desktop\Max Watkins\C#\List\List\obj\Debug\List.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Max Watkins\C#\List\List\obj\Debug\List.exe
+C:\Users\student\Desktop\Max Watkins\C#\List\List\obj\Debug\List.pdb
